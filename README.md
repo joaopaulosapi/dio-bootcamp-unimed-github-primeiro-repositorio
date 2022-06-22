@@ -1,2 +1,4 @@
-# dio-bootcamp-unimed-github-primeiro-repositorio
+## Repositorio do Desafio de Projeto sobre Git/GitHub da dio ##
+
+### Legal ###
 Desafio de Projeto sobre Git/GitHub
